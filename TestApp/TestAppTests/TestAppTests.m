@@ -5,6 +5,7 @@
 //  Created by James Hedrick on 5/3/13.
 //  Copyright (c) 2013 James Hedrick. All rights reserved.
 //  This has been added
+//  Here is where an additional comment has been added.
 
 #import "TestAppTests.h"
 
